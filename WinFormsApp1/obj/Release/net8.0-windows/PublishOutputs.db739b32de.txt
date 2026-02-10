@@ -1,5 +1,0 @@
-C:\Users\lprimoo\Desktop\WinFormsApp1.exe
-C:\Users\lprimoo\Desktop\WinFormsApp1.dll
-C:\Users\lprimoo\Desktop\WinFormsApp1.deps.json
-C:\Users\lprimoo\Desktop\WinFormsApp1.runtimeconfig.json
-C:\Users\lprimoo\Desktop\WinFormsApp1.pdb
