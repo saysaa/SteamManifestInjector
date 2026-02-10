@@ -1,0 +1,51 @@
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lprimoo\Desktop\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lprimoo\Documents\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\l-primoo\Desktop\Dev\C# Learn & Projects\SteamManifestInjector\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
