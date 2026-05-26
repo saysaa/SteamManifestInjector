@@ -1,19 +1,23 @@
-**Here's SteamManifestInjector (SMI)**
+# SteamManifestInjector (SMI)
 
-____________________
+SMI is a lightweight tool designed to automate the process of injecting files so your Steam client can recognize them correctly.
 
-Here are all its features:
+### How it works
+The program handles the sorting for you: just drag and drop your files, and it will automatically place them into the correct Steam directories. It intelligently distinguishes between file types so you don't have to worry about manual placement.
 
-- Inject .manifest files, which can be used only for downloading
+**Key Features:**
+* **.manifest injection:** Used to trigger or manage specific downloads.
+* **.acf injection:** Allows Steam to instantly detect a game as "installed" in your library.
 
-- Inject .acf files to have your game detected in your Steam library
+### ⚠️ Important Note
+This program **modifies your Steam installation folders** by injecting files directly. Please make sure you know exactly what you are doing before running it.
 
-__________________
+---
 
-I'm not responsible for what you do with it, and in any case, I have nothing to do with it.
+### Disclaimer
+*I am not responsible for how you use this tool. This project is provided as-is, without any warranty.*
 
-I obviously don't condone piracy.
+*Obviously, I do not condone piracy. SMI is intended solely to help you manage your own files.*
 
-Don't try to reverse engineer it. If you want the program code, just ask me, and I'll give it to you without hesitation.
-
-Feel free to support the project by sharing it or talking about it on social media ;)
+---
+*If this project helped you out, feel free to share it or spread the word—it’s much appreciated!*
